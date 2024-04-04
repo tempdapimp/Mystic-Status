@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["☁️Takin Over Turfs","Killin Da Rest❌","👻! Ghost Security !🛡️"];
+const statusMessages = ["Best R6 Team","Recruiting NOW!!","🛡️! Mystic Security !🛡️"];
 
 
 let currentIndex = 0;
